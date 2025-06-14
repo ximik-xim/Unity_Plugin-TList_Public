@@ -14,17 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _nameSO: SO Data User Russia
   _setName: 1
-  _ChechTargetPath: 0
+  _saveBackupChangeData: 1
   _list:
-  - _identifierData: {fileID: 0}
+  - _identifierData: {fileID: 11400000, guid: c741e10790116af448e70de80d41300a, type: 2}
     _dataKey:
       key: 07107fa3516df0ed509eae483198b4258ab49416990fe7155e5d424c5a54ab7b
-  - _identifierData: {fileID: 0}
+  - _identifierData: {fileID: 11400000, guid: fffff12cd3a9c5c4294aa52fd33e1fa5, type: 2}
     _dataKey:
       key: 5de0337bfa465beaca35372b42cf9d8d684c21a5272256f86e819e30e0618ef9
-  - _identifierData: {fileID: 0}
-    _dataKey:
-      key: ecd62a3ca67a54935b900f18416d5831847a7b826452a2cbd4fb5ae19b9c7bee
   _fatalError:
     Enable: 0
     TextError: 
