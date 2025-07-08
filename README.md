@@ -5,6 +5,7 @@
 
 Видео инструкция
 YouTube - https://www.youtube.com/watch?v=IC_g7WRdjc8&list=PLHhXp2MqwAX7qWEjvTryqbf-z8MOCnklD
+
 VK - https://vkvideo.ru/playlist/-231489625_1/video-231489625_456239017
 
 Особенности версии
